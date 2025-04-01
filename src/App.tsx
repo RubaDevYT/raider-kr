@@ -4,8 +4,8 @@ function App() {
 
   return (
     <>
-      <div className="bg-gradient-to-tr from-stone-900 to-zinc-900 min-h-screen flex justify-center w-[100%] h-[100%]">
-        <div className="w-[90%] md:w-[60%] min-h-[300px] flex flex-col justify-top items-center md:shadow-2xl md:border-t-0 md:border-b-0 md:border-1 md:border-amber-600 pt-[40px]">
+      <div className="bg-gradient-to-r from-blue-900 to-blue-800 min-h-screen flex justify-center w-[100%] h-[100%]">
+        <div className="w-[90%] md:w-[60%] min-h-[300px] flex flex-col justify-top items-center md:shadow-2xl md:border-t-0 md:border-b-0 md:border-1 md:border-sky-400 pt-[40px]">
           <div className="flex justify-center items-center text-center sm:gap-5 md:gap-10 flex-wrap">
           <h1 className="font-bold text-[30px] md:text-[68px] text-white select-none">RAIDER IN KOREA</h1>
           <img src="kr.png" width="120px"></img>
